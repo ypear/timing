@@ -1,0 +1,23 @@
+{
+  "name": "@ypear/timing",
+  "version": "0.0.1",
+  "description": "forced peer timing syncronization helper",
+  "main": "timing.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypear/timing"
+  },
+  "keywords": [
+    "local-first",
+    "offline-first",
+    "distributed",
+    "p2p",
+    "hypercore",
+    "corestore",
+    "hyperswarm",
+    "database",
+    "autobase"
+  ],
+  "author": "Benz Muircroft",
+  "license": "MIT"
+}
