@@ -1,4 +1,4 @@
-# <img src="https://github.com/benzmuircroft/temp/blob/main/Yjs.png" height="32" style="vertical-align:40px;"/>🍐# @ypear/timing ⏱️
+# <img src="https://github.com/ypear/timing/blob/main/Yjs.png" height="32" style="vertical-align:40px;"/>🍐# @ypear/timing ⏱️
 
 ### 💾 Installation
 
